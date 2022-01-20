@@ -31,4 +31,4 @@ Preview do projeto: <a href="" target="_blank">Acessar</a>
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com ♥ by [Carlos Araújo](https://github.com/carlosaaraujo)
